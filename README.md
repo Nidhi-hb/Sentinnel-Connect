@@ -99,13 +99,13 @@ Configure scalable database and storage options appropriate for load
 Monitor application health and set up alerts for critical metrics
 
 <p align="center">
-  <img src="s1.png" alt="Screenshot 1" width="600" height="340">
+  <img src="s1.png" alt="Screenshot 1" width="650" height="400">
 </p>
 
 <p align="center">
-  <img src="s2.png" alt="Screenshot 2" width="600" height="340">
+  <img src="s2.png" alt="Screenshot 2" width="650" height="400">
 </p>
 
 <p align="center">
-  <img src="s3.png" alt="Screenshot 3" width="600" height="340">
+  <img src="s3.png" alt="Screenshot 3" width="650" height="400">
 </p>
